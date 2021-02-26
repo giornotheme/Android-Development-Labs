@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="get_image">Get an image</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="waiting_for_auth">Waiting for auth</string>
+    <string name="flickr">Flickr</string>
+</resources>

@@ -70,7 +70,7 @@ Instructions for the project setup :
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Nathaaaan/Android-Development-Labs.git
+   git clone https://github.com/giornotheme/Android-Development-Labs.git
    ```
 2. Open it with Android Studio
 3. Run it
